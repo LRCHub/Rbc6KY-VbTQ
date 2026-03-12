@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Sugarless GiRL",
+  "base_artist": "capsule",
+  "createdAt": "2026-03-12T18:53:41.736729Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sugarless GiRL",
+      "artist": "Capsule",
+      "has_synced": true,
+      "path": "select/01_Sugarless_GiRL_Capsule.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sugarless GiRL - rmx ver.",
+      "artist": "Capsule",
+      "has_synced": false,
+      "path": "select/02_Sugarless_GiRL_-_rmx_ver._Capsule.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sugarless GiRL (rmx ver.)",
+      "artist": "CAPSULE",
+      "has_synced": false,
+      "path": "select/03_Sugarless_GiRL_(rmx_ver.)_CAPSULE.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sugarless GiRL",
+      "artist": "Capsule",
+      "has_synced": true,
+      "path": "select/04_Sugarless_GiRL_Capsule.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sugarless GiRL",
+      "artist": "CAPSULE",
+      "has_synced": false,
+      "path": "select/05_Sugarless_GiRL_CAPSULE.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sugarless GiRL (remix version)",
+      "artist": "capsule",
+      "has_synced": false,
+      "path": "select/06_Sugarless_GiRL_(remix_version)_capsule.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sugarless GIRL(rmx ver.)",
+      "artist": "CAPSULE",
+      "has_synced": false,
+      "path": "select/07_Sugarless_GIRL(rmx_ver.)_CAPSULE.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sugarless GiRL",
+      "artist": "FRUITS ZIPPER",
+      "has_synced": true,
+      "path": "select/08_Sugarless_GiRL_FRUITS_ZIPPER.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sugarless GiRL",
+      "artist": "CAPSULE",
+      "has_synced": false,
+      "path": "select/pl_01_Sugarless_GiRL_CAPSULE.txt"
+    }
+  ]
+}
